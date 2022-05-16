@@ -1,4 +1,4 @@
-# FundMe
+# Fund me
 Solidity program to fund and withdraw Ethereum
 
 ### Topics covered
